@@ -30,7 +30,7 @@ win.addch(food[0], food[1], curses.ACS_PI)
 key = curses.KEY_RIGHT
 score = 0
 
-n_run = 1
+n_run = 2
 train_x = []
 train_y = []
 
